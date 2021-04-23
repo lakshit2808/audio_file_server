@@ -20,5 +20,5 @@
 
 ## Screenshots
 <br>
-<img src="DEMO_IMG\CAPTURE.png"  height="300">
-<img src="DEMO_IMG\CAPTURE2.png"  height="300">
+<img src="DEMO_IMG\Capture.png"  height="300">
+<img src="DEMO_IMG\Capture2.png"  height="300">
