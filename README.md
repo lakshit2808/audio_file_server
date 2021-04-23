@@ -20,5 +20,5 @@
 
 ## Screenshots
 <br>
-<img src="DEMO_IMG\CAPTURE.png" alt="Smiley face" height="300">
-<img src="DEMO_IMG\CAPTURE2.png" alt="Smiley face" height="300">
+<img src="DEMO_IMG\CAPTURE.png"  height="300">
+<img src="DEMO_IMG\CAPTURE2.png"  height="300">
