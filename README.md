@@ -20,5 +20,5 @@
 
 ## Screenshots
 <br>
-<img src="DEMO_IMG\Capture.png"  height="300">
-<img src="DEMO_IMG\Capture2.png"  height="300">
+<img src="https://github.com/lakshit2808/audio_file_server/blob/main/DEMO_IMG/Capture.PNG"  height="300">
+<img src="https://github.com/lakshit2808/audio_file_server/blob/main/DEMO_IMG/Capture2.PNG"  height="300">
